@@ -1,1 +1,1 @@
-Sanke game created using Pygame
+Snake game created using Pygame
