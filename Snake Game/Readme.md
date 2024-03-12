@@ -1,0 +1,1 @@
+This snake game is made using HTML, CSS and Javascript
